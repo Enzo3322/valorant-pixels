@@ -8,7 +8,7 @@ export const PixelsList = ({ pixelArr }) => {
 	useEffect(() => {
 		if (pixelArr) {
 			const filter = pixelArr?.filter((pixel) =>
-				pixel.map.toLowerCase().includes(search.toLowerCase())
+				pixel?.name.toLowerCase().includes(search.toLowerCase())
 			);
 			setFilteredPixels(filter);
 		} else {
@@ -30,11 +30,11 @@ export const PixelsList = ({ pixelArr }) => {
 			</div>
 			<section className={styles.grid}>
 				{filteredPixels?.map((item, i) => (
-					<a key={i} href={item.pid}>
+					<a key={i} href={`/map?ref=${item.name}`}>
 						<picture>
 							<img src={item?.thumb?.url} alt={item?.thumb?.alt} />
 						</picture>
-						<p className={styles.name}>{item.map}</p>
+						<p className={styles.name}>{item.name}</p>
 					</a>
 				))}
 				{filteredPixels.length === 0 && <h2>Nenhum mapa encontrado</h2>}
