@@ -1,5 +1,7 @@
 import { useRouter } from 'next/router';
+import { useState } from 'react';
 import { pixels } from '../mock/mock';
+import styles from '../styles/agent.module.scss';
 
 export default function Pixel() {
 	const router = useRouter();
@@ -16,15 +18,21 @@ export default function Pixel() {
 	);
 
 	if (!matchAgent) return <p>Ops temos um problema</p>;
-
 	return (
 		<div>
-			<p>{matchAgent.name}</p>
-			<ul>
-				{matchAgent.pixels?.map((pixel, i) => (
-					<p key={i}>{pixel.description}</p>
-				))}
-			</ul>
+			<picture>
+				<img src={matchAgent.agent_img} alt={matchAgent.name} />
+			</picture>
+			<div className={styles.pixelsContainer}>
+				{matchAgent.pixels?.map((pixel, i) => {
+					return (
+						<div className={styles.pixelsContent} key={i}>
+							<span className={styles.flag}>{pixel.level}</span>
+							<p>{pixel.description}</p>
+						</div>
+					);
+				})}
+			</div>
 		</div>
 	);
 }

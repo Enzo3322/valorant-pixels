@@ -1,0 +1,12 @@
+.pixelsContainer {
+	display: grid;
+	grid-template-columns: auto auto auto;
+	gap: 20px;
+	padding: 0 5%;
+	.pixelsContent {
+		background-color: #222;
+		padding: 20px;
+		border-radius: 8px;
+		border: 1px solid #444;
+	}
+}

@@ -45,7 +45,7 @@ export default function Map() {
 			</div>
 			<div className={styles.agentContainer}>
 				{filteredAgents?.map((agent, i) => (
-					<a key={i} href={`/pixel?map=${mapInfos.name}&agent=${agent.name}`}>
+					<a key={i} href={`/agent?map=${mapInfos.name}&agent=${agent.name}`}>
 						<picture>
 							<img src={agent.agent_img} alt="" />
 						</picture>

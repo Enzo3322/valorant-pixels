@@ -13,7 +13,7 @@ export default function Home() {
 			</Head>
 
 			<main className={styles.main}>
-				<h1>Welcome to Valorant Pixels Plataform</h1>
+				<h1>Escolha um mapa para visualizar os agentes</h1>
 				<PixelsList pixelArr={pixels} />
 			</main>
 		</div>

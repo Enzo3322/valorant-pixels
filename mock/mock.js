@@ -13,9 +13,39 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
+						],
+						imgs: [
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+						],
+					},
+					{
+						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
+						popularName: ['Amarelo', 'Container Fundo'],
+						level: 'easy',
+						description: [
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
+						],
+						imgs: [
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+							{ url: '', alt: '' },
+						],
+					},
+					{
+						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
+						level: 'easy',
+						description: [
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -32,9 +62,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -51,9 +82,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -70,9 +102,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -89,9 +122,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -108,9 +142,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -127,9 +162,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -146,9 +182,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -165,9 +202,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -184,9 +222,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -203,9 +242,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -222,9 +262,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -241,9 +282,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -260,9 +302,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -279,9 +322,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -298,9 +342,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -317,9 +362,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -336,9 +382,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -355,9 +402,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -384,9 +432,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -403,9 +452,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -422,9 +472,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -441,9 +492,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -460,9 +512,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -479,9 +532,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -498,9 +552,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -517,9 +572,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -536,9 +592,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -555,9 +612,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -574,9 +632,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -593,9 +652,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -612,9 +672,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -631,9 +692,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -650,9 +712,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -669,9 +732,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -688,9 +752,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -707,9 +772,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -726,9 +792,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -755,9 +822,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -774,9 +842,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -793,9 +862,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -812,9 +882,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -831,9 +902,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -850,9 +922,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -869,9 +942,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -888,9 +962,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -907,9 +982,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -926,9 +1002,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -945,9 +1022,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -964,9 +1042,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -983,9 +1062,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1002,9 +1082,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1021,9 +1102,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1040,9 +1122,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1059,9 +1142,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1078,9 +1162,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1097,9 +1182,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1126,9 +1212,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1145,9 +1232,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1164,9 +1252,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1183,9 +1272,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1202,9 +1292,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1221,9 +1312,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1240,9 +1332,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1259,9 +1352,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1278,9 +1372,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1297,9 +1392,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1316,9 +1412,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1335,9 +1432,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1354,9 +1452,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1373,9 +1472,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1392,9 +1492,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1411,9 +1512,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1430,9 +1532,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1449,9 +1552,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1468,9 +1572,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1497,9 +1602,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1516,9 +1622,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1535,9 +1642,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1554,9 +1662,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1573,9 +1682,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1592,9 +1702,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1611,9 +1722,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1630,9 +1742,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1649,9 +1762,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1668,9 +1782,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1687,9 +1802,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1706,9 +1822,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1725,9 +1842,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1744,9 +1862,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1763,9 +1882,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1782,9 +1902,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1801,9 +1922,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1820,9 +1942,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1839,9 +1962,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1868,9 +1992,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1887,9 +2012,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1906,9 +2032,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1925,9 +2052,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1944,9 +2072,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1963,9 +2092,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -1982,9 +2112,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2001,9 +2132,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2020,9 +2152,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2039,9 +2172,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2058,9 +2192,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2077,9 +2212,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2096,9 +2232,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2115,9 +2252,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2134,9 +2272,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2153,9 +2292,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2172,9 +2312,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2191,9 +2332,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2210,9 +2352,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2239,9 +2382,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2258,9 +2402,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2277,9 +2422,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2296,9 +2442,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2315,9 +2462,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2334,9 +2482,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2353,9 +2502,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2372,9 +2522,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2391,9 +2542,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2410,9 +2562,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2429,9 +2582,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2448,9 +2602,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2467,9 +2622,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2486,9 +2642,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2505,9 +2662,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2524,9 +2682,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2543,9 +2702,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2562,9 +2722,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
@@ -2581,9 +2742,10 @@ export const pixels = [
 				pixels: [
 					{
 						local: '',
+						popularName: ['Amarelo', 'Container Fundo'],
 						level: 'easy',
 						description: [
-							'Nisi nisi mollit eu eu. Labore do deserunt ipsum ea ex velit laboris laborum culpa nulla esse ex. Qui anim veniam adipisicing voluptate nulla consequat laborum commodo amet Lorem et ea. Et quis aliquip exercitation ad et.',
+							'Para executar este pixel é necessario que se posicione exatamente no mesmo local da imagem acima',
 						],
 						imgs: [
 							{ url: '', alt: '' },
